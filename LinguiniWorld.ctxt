@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=grid
+comment0.target=LinguiniWorld(info.gridworld.grid.BoundedGrid)
+comment1.params=
+comment1.target=void\ step()
+comment2.params=description\ loc
+comment2.target=boolean\ keyPressed(java.lang.String,\ info.gridworld.grid.Location)
+numComments=3
